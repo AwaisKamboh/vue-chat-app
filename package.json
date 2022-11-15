@@ -9,7 +9,14 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "emoji-vue": "^0.2.4",
+    "laravel-echo": "^1.14.1",
+    "pusher-js": "^7.4.0",
+    "v-emoji-picker": "^2.3.3",
     "vue": "^2.6.14",
+    "vue-axios": "^3.5.2",
+    "vue-echo-laravel": "^1.0.0",
+    "vue-moments-ago": "^0.2.0",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
   },
