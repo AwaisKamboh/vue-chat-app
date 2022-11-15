@@ -52,7 +52,6 @@ import axios from 'axios';
                     'Authorization' : `Bearer ${localStorage.getItem('access_token')}`,
                      'Content-Type': 'multipart/form-data',
                       'Accept': 'multipart/form-data',
-                   
                     }
                 }
     
