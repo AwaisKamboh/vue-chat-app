@@ -252,7 +252,11 @@ export default {
       showDialog: false,
     };
   },
-
+  watch: {
+    msgStore(newValue, oldValue) {
+      console.log(newValue, oldValue)
+    },
+  },
   methods: {
       toogleDialogEmoji() {
       console.log("Toogle!");
